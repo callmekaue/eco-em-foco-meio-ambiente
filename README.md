@@ -1,207 +1,288 @@
-# 🌱 Eco em Foco
+# Eco em Foco
 
-> **Informação, conscientização e tecnologia em favor do meio ambiente.**
+Site educativo sobre sustentabilidade, emissões de carbono e impacto social, desenvolvido como atividade acadêmica de Front-End.
 
-O **Eco em Foco** é uma plataforma web voltada à **conscientização ambiental e sustentabilidade**, desenvolvida para apresentar informações sobre o meio ambiente de forma moderna, acessível e visualmente agradável.
+## Identificação
 
-O projeto busca utilizar a tecnologia como ferramenta para aproximar as pessoas de temas relacionados à preservação ambiental, sustentabilidade e responsabilidade com o planeta.
+- **Equipe:** Eco em Foco
 
----
+- **Projeto:** Eco em Foco — sustentabilidade, carbono e impacto social
 
-## 🌎 Sobre o Projeto
+- **Integrante:** Larissa Penha Francisco
 
-O **Eco em Foco** foi desenvolvido com a proposta de criar um espaço digital onde usuários possam encontrar conteúdos relacionados ao meio ambiente e compreender melhor a importância de atitudes sustentáveis.
+- **Curso:** Engenharia de Software
 
-A plataforma apresenta uma experiência simples e intuitiva, priorizando:
+- **Instituição:** UNICID
 
-* 🌱 Sustentabilidade
-* 🌎 Preservação ambiental
-* ♻️ Reciclagem
-* 💧 Uso consciente da água
-* ⚡ Consumo consciente de energia
-* 🌳 Preservação das florestas
-* 🐾 Proteção da biodiversidade
-* 📚 Educação ambiental
+- **Disciplina:** Atividade A2 — Front-End
 
----
+- **Data:** 25/09/2026
 
-## 🎯 Objetivos
+## Sobre o projeto
 
-O projeto tem como principais objetivos:
+O projeto aborda a relação entre emissões de carbono, mudanças climáticas, sustentabilidade e impacto social. O tema é relevante porque as escolhas de consumo, energia e mobilidade, assim como o uso dos recursos naturais, afetam o meio ambiente e a qualidade de vida das pessoas.
 
-* Promover a conscientização ambiental.
-* Facilitar o acesso a informações sobre sustentabilidade.
-* Incentivar práticas mais sustentáveis no dia a dia.
-* Utilizar tecnologia para disseminar conhecimento.
-* Criar uma experiência web moderna e responsiva.
-* Desenvolver um projeto que una **tecnologia e impacto ambiental**.
+O site apresenta informações educativas em linguagem simples, incentiva atitudes responsáveis e destaca que a sustentabilidade também envolve inclusão, acessibilidade e participação social.
 
----
+### Objetivos
 
-## ✨ Funcionalidades
+**Objetivo geral:** criar um site educativo, acessível e responsivo sobre sustentabilidade, emissões de carbono e impacto social.
 
-Entre as funcionalidades planejadas para a plataforma estão:
+**Objetivos específicos:**
 
-* 🏠 Página inicial informativa
-* 🌱 Conteúdos sobre sustentabilidade
-* ♻️ Informações sobre reciclagem
-* 🌳 Conteúdos relacionados à preservação ambiental
-* 💧 Dicas para economia de água
-* ⚡ Dicas de consumo consciente
-* 🐾 Informações sobre biodiversidade
-* 📱 Interface responsiva
-* 🎨 Design moderno e intuitivo
-* 🔎 Navegação simples entre os conteúdos
+- Explicar conceitos ambientais de forma clara.
 
----
+- Apresentar dados, tabelas, notícias e fontes de consulta.
 
-## 🖥️ Tecnologias
+- Divulgar projetos relacionados à sustentabilidade.
 
-O projeto foi desenvolvido utilizando tecnologias web fundamentais:
+- Aplicar recursos de acessibilidade e navegação por teclado.
 
-| Tecnologia | Utilização                           |
-| ---------- | ------------------------------------ |
-| HTML5      | Estrutura das páginas                |
-| CSS3       | Estilização e responsividade         |
-| JavaScript | Interações e funcionalidades         |
-| Git        | Controle de versão                   |
-| GitHub     | Hospedagem e gerenciamento do código |
+- Demonstrar conhecimentos de HTML5, CSS3 e organização de projetos Front-End.
 
----
+### Público-alvo
 
-## 📂 Estrutura do Projeto
+O site é voltado a estudantes, professores e pessoas interessadas em meio ambiente, clima e responsabilidade social. O conteúdo considera usuários de diferentes idades e níveis de conhecimento técnico, incluindo pessoas com deficiência como público prioritário.
 
-```text
-eco-em-foco/
-│
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── pages/
-│   ├── sustentabilidade.html
-│   ├── reciclagem.html
-│   └── preservacao.html
-│
-├── index.html
-│
-├── README.md
-│
-└── LICENSE
+## Páginas do site
+
+O site possui dez páginas navegáveis, com navegação principal compartilhada, além de formulário de contato, galeria, recursos multimídia e notícias.
+
+| Arquivo | Conteúdo |
+| --- | --- |
+| `index.html` | Apresentação do projeto, resumo do tema e menu principal. |
+| `Sobre.html` | História, missão, visão e valores. |
+| `projetos.html` | Projetos de sustentabilidade e impacto social. |
+| `impacto.html` | Dados, indicadores, tabelas e resultados. |
+| `acessibilidade.html` | Medidas de inclusão para pessoas com deficiência. |
+| `galeria.html` | Imagens com legendas, créditos e fontes. |
+| `midia.html` | Vídeo, áudio e iframe. |
+| `noticias.html` | Notícias, artigos e referências. |
+| `contato.html` | Dados fictícios, integrantes e formulário validado. |
+| `orcamento_hospedagem.html` | Comparação de opções de hospedagem e domínio. |
+
+### Mapa do site
+
+```
+Início
+├── Sobre
+├── Projetos
+├── Impacto
+├── Acessibilidade
+├── Galeria
+├── Mídia
+├── Notícias
+├── Contato
+└── Orçamento de hospedagem
 ```
 
----
+Todas as páginas dão acesso ao menu principal e ao rodapé com links de navegação.
 
-## 🎨 Interface
+## Tecnologias e ferramentas
 
-O projeto foi pensado para oferecer uma experiência:
+- HTML5 semântico.
 
-* Responsiva
-* Intuitiva
-* Visual
-* Acessível
-* Compatível com diferentes tamanhos de tela
+- CSS3 com variáveis, layouts responsivos e media queries.
 
-### 📸 Preview
+- Elementos nativos de mídia: `<video controls poster>`, `<audio controls>` e `<iframe>`.
 
-Adicione aqui imagens ou GIFs da aplicação:
+- Validação nativa de formulários HTML5, com atributos como `required`, `type="email"`, `type="tel"`, `type="date"`, `type="number"` e `pattern`.
 
-```markdown
-![Preview do Eco em Foco](assets/images/preview.png)
-```
+- Visual Studio Code.
 
----
+- Microsoft Edge para testes locais.
 
-## 🚀 Como executar o projeto
+- Verificações estruturais e visuais do projeto.
 
-### 1. Clone o repositório
+A navegação principal não depende de JavaScript.
+
+## Requisitos não funcionais
+
+- **Acessibilidade:** textos alternativos, contraste, foco visível, navegação por teclado, `lang="pt-BR"` e atributos ARIA quando necessários.
+
+- **Sustentabilidade:** conteúdo educativo, imagens com fontes identificadas e proposta de hospedagem de baixo custo.
+
+- **Responsividade:** adaptação a celulares, tablets e computadores.
+
+- **Desempenho:** CSS compartilhado, estrutura simples e uso de imagens limitado ao necessário.
+
+- **SEO básico:** títulos descritivos, meta descriptions e hierarquia adequada de headings.
+
+- **Semântica:** uso de elementos como `header`, `nav`, `main`, `section`, `article` e `footer`, além de headings de `h1` a `h3`.
+
+## Identidade visual e conteúdo
+
+O tom de voz é educativo, direto e acolhedor. A paleta combina tons de verde, associados à natureza, e terracota, usado para destacar ações e elementos de chamada. O logotipo textual “eco em foco” aparece no cabeçalho e no rodapé.
+
+Imagens e materiais externos têm créditos ou links para suas fontes nas páginas correspondentes. Os textos foram organizados para fins acadêmicos e educativos.
+
+## Como executar
+
+O projeto pode ser aberto diretamente no navegador ou servido localmente.
+
+### Abrir diretamente
+
+Abra o arquivo `index.html` no navegador.
+
+### Usar um servidor local
+
+Na pasta do projeto, execute:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/eco-em-foco.git
+python -m http.server 8000
 ```
 
-### 2. Acesse a pasta
+Em seguida, acesse [http://localhost:8000](http://localhost:8000).
 
-```bash
-cd eco-em-foco
-```
+## Divisão de funções e cronograma
 
-### 3. Execute o projeto
+Como o projeto foi desenvolvido individualmente, todas as etapas foram realizadas por Larissa Penha Francisco.
 
-Abra o arquivo:
+| Etapa | Responsável | Resultado |
+| --- | --- | --- |
+| Planejamento e escopo | Larissa Penha Francisco | Definição do tema, do público e das páginas. |
+| Estrutura HTML | Larissa Penha Francisco | Criação das dez páginas e da navegação. |
+| Identidade visual e CSS | Larissa Penha Francisco | Paleta verde e terracota, layout responsivo e comentários didáticos. |
+| Conteúdo e fontes | Larissa Penha Francisco | Textos, dados, créditos e referências. |
+| Acessibilidade e formulário | Larissa Penha Francisco | Labels, textos alternativos, ARIA, foco e validação HTML5. |
+| Testes e documentação | Larissa Penha Francisco | Revisão no navegador, documentação e arquivo compactado. |
 
-```text
-index.html
-```
+## Riscos e restrições
 
-Você também pode utilizar uma extensão como **Live Server** no Visual Studio Code para executar o projeto localmente.
+- O projeto é estático e não possui banco de dados nem servidor para envio de formulários.
 
----
+- Vídeos, áudios e imagens externos dependem de conexão com a internet.
 
-## 📱 Responsividade
+- O prazo acadêmico limita a quantidade de testes automatizados.
 
-A aplicação foi desenvolvida pensando em diferentes dispositivos:
+- Caso o professor solicite evidências, recomenda-se validar o HTML com o serviço oficial do W3C antes da entrega final.
 
-* 💻 Desktop
-* 💻 Notebook
-* 📱 Smartphone
-* 📱 Tablet
+## Critérios de aceitação
 
-O layout se adapta ao tamanho da tela para proporcionar uma experiência consistente ao usuário.
+O projeto é considerado pronto quando:
 
----
+- As dez páginas podem ser acessadas pelo menu.
 
-## 🔮 Próximos passos
+- O formulário apresenta validação HTML5 funcional.
 
-O projeto poderá receber novas funcionalidades futuramente, como:
+- A página de mídia contém vídeo, áudio e iframe.
 
-* [ ] Sistema de notícias ambientais
-* [ ] Dashboard com indicadores ambientais
-* [ ] Mapa de pontos de reciclagem
-* [ ] Calculadora de impacto ambiental
-* [ ] Sistema de dicas sustentáveis
-* [ ] Área de projetos ambientais
-* [ ] Integração com APIs de dados ambientais
-* [ ] Modo escuro
-* [ ] Sistema de busca
-* [ ] Painel administrativo
-* [ ] Banco de dados
-* [ ] Sistema de gerenciamento de conteúdos
+- As imagens têm texto alternativo e fontes identificadas.
 
----
+- O layout funciona em diferentes tamanhos de tela.
 
-## 🌱 Impacto
+- A navegação pode ser realizada pelo teclado.
 
-Mais do que um projeto de desenvolvimento web, o **Eco em Foco** busca demonstrar como a tecnologia pode ser utilizada para **informar, educar e incentivar atitudes mais conscientes em relação ao meio ambiente**.
+- A documentação da pasta `docs/` está completa.
 
-> **Pequenas atitudes podem gerar grandes mudanças.**
+- O projeto está compactado no arquivo `equipe_eco_em_foco.zip`.
 
----
+## Documentação da entrega
 
-## 👨‍💻 Desenvolvimento
+A pasta `docs/` contém:
 
-Projeto desenvolvido como parte de um projeto web voltado para **tecnologia, sustentabilidade e educação ambiental**.
+- `README.md` — identificação, objetivos, escopo e instruções do projeto.
 
----
+- `diario-de-bordo.md` — decisões, aprendizados e dificuldades.
 
-## 📄 Licença
+- `orcamento-hospedagem.md` — estimativas de hospedagem e domínio.
 
-Este projeto está disponível sob a licença MIT.
+- `evidencias-testes.md` — descrição das verificações realizadas.
 
-Consulte o arquivo `LICENSE` para mais informações.
+## Orçamento de hospedagem e domínio
 
----
+### Cenário considerado
 
-<p align="center">
+Site institucional estático, sem banco de dados e sem integrações complexas.
 
-🌱 **Eco em Foco**
+### Comparativo de hospedagem
 
-**Tecnologia • Sustentabilidade • Consciência Ambiental**
+| Serviço | Tipo | Estimativa | Vantagens |
+| --- | --- | --- | --- |
+| GitHub Pages | Estática | R$ 0/mês | Gratuita, adequada para HTML e CSS e integrada ao GitHub. |
+| Netlify | Estática | R$$ 0 a R$$ 30/mês | Publicação simples, HTTPS e integração contínua. |
+| Hostinger | Compartilhada | R$$ 20 a R$$ 80/mês | Suporte a domínio próprio e painel de hospedagem. |
 
-</p>
+### Comparativo de domínios
+
+| Extensão | Estimativa anual | Uso recomendado |
+| --- | --- | --- |
+| `.com.br` | R$$ 40 a R$$ 60/ano | Projeto brasileiro e público nacional. |
+| `.site` | R$$ 20 a R$$ 80/ano | Site institucional ou projeto escolar. |
+| `.org` | R$$ 60 a R$$ 120/ano | Organizações e projetos sociais ou ambientais. |
+
+### Custos adicionais
+
+- **Manutenção e atualização de conteúdo:** R$$ 0 a R$$ 200 por mês, dependendo da necessidade de suporte externo.
+
+- **Certificado SSL:** geralmente incluído nos serviços atuais ou disponibilizado gratuitamente.
+
+Os valores são estimativas para fins acadêmicos e podem variar conforme o plano, o fornecedor e as promoções vigentes.
+
+### Recomendação
+
+Para este projeto acadêmico, recomenda-se o GitHub Pages, por ser gratuito e suficiente para páginas HTML e CSS. Se for necessário um endereço personalizado, a extensão `.com.br` é adequada ao público brasileiro. O Netlify é uma alternativa para publicação rápida, enquanto a Hostinger oferece mais recursos caso o projeto cresça e precise de hospedagem compartilhada.
+
+## Evidências de testes
+
+### Verificações realizadas
+
+- Navegação principal visível no topo das páginas.
+
+- Logo e menu alinhados corretamente.
+
+- Página inicial seguindo o mesmo padrão estrutural das demais páginas.
+
+- Formulário de contato com labels e validação HTML5 nativa.
+
+- Página de mídia com elementos de vídeo, áudio e iframe.
+
+- Estrutura HTML semântica e recursos básicos de acessibilidade.
+
+### Observações
+
+- Os links e a navegação foram conferidos visualmente.
+
+- A página de contato foi ajustada para remover o estado desativado do formulário.
+
+- A página de mídia foi revisada para incluir mídias com controles nativos do navegador.
+
+## Diário de bordo
+
+### Etapa 1 — Planejamento
+
+- Definição da identidade visual do projeto, com tons de verde e terracota.
+
+- Organização do site em páginas temáticas.
+
+- Priorização da organização visual e da acessibilidade.
+
+### Etapa 2 — Construção do layout
+
+- Criação de cabeçalho, navegação e rodapé compartilhados.
+
+- Ajuste do alinhamento do logo à esquerda e do menu à direita.
+
+- Busca por consistência visual entre as páginas.
+
+### Etapa 3 — Conteúdo e acessibilidade
+
+- Inclusão de textos educativos e explicativos.
+
+- Adição de skip link e navegação por teclado.
+
+- Revisão de contraste e foco visual.
+
+### Etapa 4 — Validação e ajustes finais
+
+- Correção do menu ativo e verificação de sua visibilidade no topo.
+
+- Ajuste do formulário para usar a validação HTML5.
+
+- Inclusão de elementos multimídia com controles nativos.
+
+- Organização da documentação do projeto na pasta `docs/`.
+
+## Entrega
+
+O arquivo compactado para envio é `equipe_eco_em_foco.zip`. A entrega deve ser feita pelo Blackboard, acompanhada dos documentos adicionais solicitados pelo professor.
